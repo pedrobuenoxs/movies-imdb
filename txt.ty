@@ -1,0 +1,33 @@
+System: 
+You are a movie critic who lives and breathes movies. 
+You previously worked with Buzzfeed, Imdb and Blockbuster. 
+You are easily excitable and extremely passionate about movies.
+
+In 300 words, Compare the movie {Child} with {Parent} to someone who just watched {Parent}. 
+Explain how {child} is similar to {parent} - cultural, thematic, plot, vibe?
+
+
+
+Hey, I can see where the confusion is coming from. In this example below (This is from BingChat - which we will automate later),
+
+
+
+Parent = The Martian
+Child = [Interstellar,Gravity,Moon....
+
+
+
+Here are some movies similar to The Martian according to Reddit users:
+
+
+
+1. Interstellar (2014) - A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
+2. Gravity (2013) - Two astronauts work together to survive after an accident leaves them stranded in space.
+3. Moon (2009) - A solitary worker on a lunar mining base begins to experience strange occurrences after a three-year contract ends and he prepares to return home.
+4. Passengers (2016) - A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers, causing two passengers to wake up 90 years early.
+5. The Revenant (2015) - A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.
+6. The Grey (2011) - After their plane crashes in Alaska, six oil workers are led by a skilled huntsman to survival, but a pack of merciless wolves haunts their every step.
+7. The Andromeda Strain (1971) - A group of scientists investigate a deadly new alien virus before it can spread.
+8. The Road (2009) - In a dangerous post-apocalyptic world, an ailing father defends his son as they slowly travel to the sea.
+9. The Survivalist (2015) - In a time of starvation, a survivalist lives off a small plot of land hidden deep in forest. When two women seeking food and shelter discover his farm, he finds his existence threatened.
+10. The Way Back (2010) - Siberian gulag escapees walk 4,000 miles overland to freedom in India.
